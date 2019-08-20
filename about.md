@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Hello!
-My name is Mariusz Jaskółka. C++ is both my job and passion. From time to time I write an article about modern C++ in polish blog [cpp-polska.pl](https://cpp-polska.pl/). I have decided to translate it into english, so that my articles could reach a wider and more international public. My english might not be perfect, so mistakes can happen. Feel free to contact me if you find any significant mistake or with any other concern.
+My name is Mariusz Jaskółka. I live near Kraków (Cracow), Poland. C++ is both my job and passion. I like to share my knowledge about it so that I started to write articles to Polish blog [cpp-polska.pl](https://cpp-polska.pl/), which I decided to translate into English, so that my texts could reach a wider and more international public. I do not pretend to know everything about programming but I believe there is knowledge that I can share with you as well as receive your feedback in comments.
+
+PS: My English might not be perfect, so mistakes can happen. Feel free to contact me if you find any significant mistake or with any other concern.
 
 ### Contact me
 
